@@ -26,6 +26,10 @@ Each branch represents a certain tutorial.
 - tut2-organization: [Application Organization and Structure](https://scotch.io/tutorials/node-and-angular-to-do-app-application-organization-and-structure)
 - tut3-services: [Controllers and Services](https://scotch.io/tutorials/node-and-angular-to-do-app-controllers-and-services)
 
+## Helpful Notes
+- Enter the mongo shell: `sudo mongo --host ec2-52-204-217-43.compute-1.amazonaws.com dummyDB --username newUser --password password`
+
+
 Happy Todo-ing!
 
 ![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
